@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <color-preset>vivid</color-preset>
+        <primary-color>deep-ocean</primary-color>
+        <header-logo>go-hcloud-firewall-hd.png</header-logo>
+    </variables>
+    <build-profile instance="in">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+    <footer>
+        <copyright>2020 - 2023</copyright>
+        <social type="blog" href="https://blog.postrausch.tech"/>
+        <link href="https://github.com/hra42/go-texttype">GitHub</link>
+        <link href="https://postrausch.tech/impressum/">Imprint</link>
+        <link href="https://postrausch.tech/datenschutz/">Privacy Policy</link>
+    </footer>
+
+</buildprofiles>
